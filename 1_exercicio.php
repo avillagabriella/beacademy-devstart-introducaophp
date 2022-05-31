@@ -11,10 +11,9 @@
     </head>
 <body>
 <form action="" method="post">
-    <input name="num1" placeholder="digite o numero 1"/>
-    <br/>
-    <input name="num2" placeholder="digite o numero 2"/>
-    <br/>
+    <input name="num1" placeholder="digite o numero 1"/><br/>
+    <input name="num2" placeholder="digite o numero 2"/><br/>
+    
     <select name="operador">
         <option value="-">Subtração</opion>
         <option value="+">Adição</opion>
